@@ -18,5 +18,5 @@
 - **Type:** Technical Sessions / Completion
 - **Date:** September 20, 2025.
 - **Learning Hours:** 6 hrs 30 mins.
-- **Evidence:** `./assets/workshops/ibm-skillsbuild-maitreyee-2025.png'.
+- **Evidence:** `./assets/workshops/ibm-skillsbuild-maitreyee-2025.png`.
 - **Description:** Completed 6.5 hours of technical sessions focused on Artificial Intelligence, Big Data, Quantum Computing, Cloud, and/or Climate and Sustainability under the Maitreyee 2025 initiative.
