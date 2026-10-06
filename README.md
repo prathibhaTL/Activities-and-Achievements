@@ -20,3 +20,13 @@
 - **Learning Hours:** 6 hrs 30 mins.
 - **Evidence:** `./assets/workshops/ibm-skillsbuild-maitreyee-2025.png`.
 - **Description:** Completed 6.5 hours of technical sessions focused on Artificial Intelligence, Big Data, Quantum Computing, Cloud, and/or Climate and Sustainability under the Maitreyee 2025 initiative.
+
+
+**AI Tools & Claude Workshop**
+
+* **Organization:** be10X
+* **Type:** Workshop / Completion
+* **Date:** October 4, 2026
+* **Learning Hours:** ~3 hrs 
+* **Evidence:** `./assets/workshops/be10x-ai-tools-workshop.png`
+* **Description:** Completed practical hands-on training covering generative AI and Claude, focusing on rapid presentation creation, AI-assisted data analysis, and code debugging and generation.
