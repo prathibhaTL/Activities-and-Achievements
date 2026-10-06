@@ -22,7 +22,7 @@
 - **Description:** Completed 6.5 hours of technical sessions focused on Artificial Intelligence, Big Data, Quantum Computing, Cloud, and/or Climate and Sustainability under the Maitreyee 2025 initiative.
 
 
-**AI Tools & Claude Workshop**
+### AI Tools & Claude Workshop**
 
 * **Organization:** be10X
 * **Type:** Workshop / Completion
