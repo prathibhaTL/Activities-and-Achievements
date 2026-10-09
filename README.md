@@ -55,5 +55,5 @@
 - **Organization:** IBM SkillsBuild / BharatCares
 - **Type:** Academic Internship / Completion Certificate
 - **Specialization:** Data Analytics with AI
-- **Evidence:** `./assets/internships/ibm-skillsbuild-data-analytics-ai.png`
+- **Evidence:** `./assets/programs/ibmskillsbuild.pdf`
 - **Description:** Completed the AICTE | IBM SkillsBuild Academic Internship in Data Analytics with AI, gaining exposure to AI concepts and their applications in data analytics.
