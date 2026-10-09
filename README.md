@@ -30,3 +30,30 @@
 * **Learning Hours:** ~3 hrs 
 * **Evidence:** `./assets/workshops/be10x-ai-tools-workshop.png`
 * **Description:** Completed practical hands-on training covering generative AI and Claude, focusing on rapid presentation creation, AI-assisted data analysis, and code debugging and generation.
+
+
+## Certifications & Professional Development
+
+### 1. Introduction to Machine Learning
+
+- **Organization:** NPTEL
+- **Type:** Online Course / Certification
+- **Evidence:** `./assets/certifications/nptel-introduction-to-machine-learning.png`
+- **Verification:** [NPTEL Candidate Score Portal](https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc26-cs74)
+- **Description:** Studied fundamental machine learning concepts, algorithms, and their applications, building a foundation in data-driven learning techniques.
+
+### 2. Fundamentals of Artificial Intelligence
+
+- **Organization:** NPTEL
+- **Type:** Online Course / Certification
+- **Date:** July–October 2025
+- **Evidence:** `./assets/certifications/nptel-fundamentals-of-artificial-intelligence.png`
+- **Description:** Explored fundamental artificial intelligence concepts, techniques, and applications.
+
+### 3. AICTE | IBM SkillsBuild Academic Internship
+
+- **Organization:** IBM SkillsBuild / BharatCares
+- **Type:** Academic Internship / Completion Certificate
+- **Specialization:** Data Analytics with AI
+- **Evidence:** `./assets/internships/ibm-skillsbuild-data-analytics-ai.png`
+- **Description:** Completed the AICTE | IBM SkillsBuild Academic Internship in Data Analytics with AI, gaining exposure to AI concepts and their applications in data analytics.
