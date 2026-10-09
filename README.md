@@ -47,7 +47,7 @@
 - **Organization:** NPTEL
 - **Type:** Online Course / Certification
 - **Date:** July–October 2025
-- **Evidence:** `./assets/certifications/nptel-fundamentals-of-artificial-intelligence.png`
+- **Evidence:** `./assets/programs/Fundamentals of Artificial Intelligence.pdf`
 - **Description:** Explored fundamental artificial intelligence concepts, techniques, and applications.
 
 ### 3. AICTE | IBM SkillsBuild Academic Internship
