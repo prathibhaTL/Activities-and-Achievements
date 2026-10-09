@@ -38,7 +38,7 @@
 
 - **Organization:** NPTEL
 - **Type:** Online Course / Certification
-- **Evidence:** `./assets/certifications/nptel-introduction-to-machine-learning.png`
+- **Evidence:** `./assets/programs/mlnptel.pdf`
 - **Verification:** [NPTEL Candidate Score Portal](https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc26-cs74)
 - **Description:** Studied fundamental machine learning concepts, algorithms, and their applications, building a foundation in data-driven learning techniques.
 
